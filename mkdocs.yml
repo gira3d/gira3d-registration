@@ -1,0 +1,17 @@
+site_name: GIRA Registration
+
+theme:
+  name: material
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+repo_name: 'rislab/gira3d-registration'
+repo_url: 'https://github.com/rislab/gira3d-registration'
+
+nav:
+  - Home: 'index.md'
+  - Registration Tutorials:
+    - 'MATLAB' : 'tutorials/matlab/matlab.md'
+    - 'Python' : 'tutorials/python/python.md'

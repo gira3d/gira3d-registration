@@ -12,7 +12,7 @@ The `dry/src` folder contains git submodules that download and locally install t
 ## Quick Start
 ### Installation
 ```
-git clone git@github.com:rislab/gira3d-registration.git --recursive
+git clone git@github.com:gira3d/gira3d-registration.git --recursive
 cd gira3d-registration
 python3.8 -m venv .venv
 source .venv/bin/activate

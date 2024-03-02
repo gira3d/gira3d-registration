@@ -2,6 +2,12 @@
 Changelog for package gira3d-registration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.3 (2024-03-02)
+------------------
+* Update git repo pulled within mtimesx_colcon
+* update docs
+* Contributors: Kshitij Goel, Wennie Tabib
+
 0.0.2 (2023-06-19)
 ------------------
 * Adding all tagged packages
